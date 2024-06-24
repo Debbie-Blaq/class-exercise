@@ -1,2 +1,2 @@
-# coursera-test
-coursera test repository
+# class-exercise
+class exercise repository
